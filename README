@@ -4,5 +4,6 @@ If your Chrome version is different, you should download relative webdriver and 
 For chromedriver: https://chromedriver.chromium.org/downloads
 
 # How to run
-pip install selenium==4.8.0
-python -m unittest test104.py
+1. Edit config.py to fill username, password, expected_real_username
+2. pip install selenium==4.8.0
+3. python -m unittest test104.py
