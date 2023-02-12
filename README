@@ -1,0 +1,8 @@
+# Abstract
+This is made by selenium. And tested with Chrome version 101.  
+If your Chrome version is different, you should download relative webdriver and replace the original chromedriver.exe.
+For chromedriver: https://chromedriver.chromium.org/downloads
+
+# How to run
+pip install selenium==4.8.0
+python -m unittest test104.py
